@@ -8,9 +8,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/MuammerBayar/readmeTemplate/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/MuammerBayar/readmeTemplate/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/MuammerBayar/Readme-Template)](https://github.com/MuammerBayar/readmeTemplate/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/MuammerBayar/Readme-Template)](https://github.com/MuammerBayar/readmeTemplate/pulls)
+[![License](https://img.shields.io/github/license/MuammerBayar/Readme-Template?color=blue)](/LICENSE)
 
 </div>
 
@@ -31,6 +31,8 @@
 - [✍️ Authors](#authors)
 - [🎉 Acknowledgments](#acknowledgement)
 - [📝 License](#license)
+
+
 
 ## 🧐 About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
