@@ -23,7 +23,7 @@
 ## 📝 Table of Contents
 - [🧐 About](#about)
 - [🏁 Getting Started](#getting_started)
-- [🔧 Running The Test](#test)
+- [🔧 Running The Test](#tests)
 - [🚀 Deployment](#deployment)
 - [🎈 Usage](#usage)
 - [️️⛏️ Built Using](#built_using)
