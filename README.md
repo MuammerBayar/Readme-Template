@@ -22,6 +22,7 @@
 
 ## 📝 Table of Contents
 - [🧐 About](#about)
+- [🌳 Source Tree](#tree)
 - [🏁 Getting Started](#getting_started)
 - [🔧 Running The Test](#tests)
 - [🚀 Deployment](#deployment)
@@ -41,6 +42,43 @@ Write about 1-2 paragraphs describing the purpose of your project.
 <p align="right"> <a href="#top"><b>🔝 Return </b></a> </p>
 
 
+<!-- Source  tree -->
+
+## 🌳 Source Tree <a name = "tree"></a>
+<pre>  
+src
+  └── byr
+      ├── doc
+      │   └── homeworkSolution
+      ├── main   
+      ├── samples
+      │   ├── application
+      │   │   ├── commandprompt
+      │   │   ├── company
+      │   │   ├── dateapp
+      │   │   ├── examsimulation
+      │   │   ├── numericlottery
+      │   │   ├── randomgenerator
+      │   │   ├── studentinfoparser
+      │   └── game
+      │       ├── ballfall
+      │       ├── cardgame
+      │       ├── mastermind
+      │       └── sudoku
+      └── util
+          ├── array
+          ├── datetime
+          ├── math
+          │   └── geometry
+          ├── number
+          ├── string      
+          └── wrapper
+</pre> 
+ Note: The tree was last updated on 29.05.2023. tree can change.  
+ 
+ <p align="right"> <a href="#top"><b>🔝 Return </b></a> </p>
+ 
+ 
 <!-- GETTING STARTED -->
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
